@@ -1,0 +1,44 @@
+body {
+  background-color: aqua;
+  margin: 0;
+}
+
+.container {
+  background-color: rgb(175, 101, 32);
+  height: 100vh;
+}
+
+.header {
+  background-color: antiquewhite;
+  height: 10vh;
+}
+
+.main {
+  background-color: blueviolet;
+  height: 60vh;
+  display: flex;
+}
+
+.footer {
+  background-color: coral;
+  height: 5vh;
+}
+.new {
+  background-color: gold;
+  height: 25vh;
+  display: flex;
+  gap: 2px;
+}
+.main-info {
+  background-color: indianred;
+  width: 25vw;
+}
+.main-data {
+  background-color: lawngreen;
+  width: 75vw;
+}
+.new1 {
+  background-color: darkseagreen;
+  width: 20vw;
+  height: 25vh;
+}
