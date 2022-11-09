@@ -8,7 +8,7 @@ body {
 }
 
 a {
-  padding: 0.5em;
+  padding: 20px;
   text-decoration: none;
 }
 a:hover {
@@ -44,7 +44,7 @@ button {
 /* BODY */
 
 .body {
-  height: 70vh;
+  height: 69.5vh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -65,7 +65,7 @@ button {
 
 /* FOOTER */
 .footer {
-  height: 17vh;
+  height: 20vh;
   background-color: rgb(242, 242, 242);
   display: flex;
   flex-direction: column;

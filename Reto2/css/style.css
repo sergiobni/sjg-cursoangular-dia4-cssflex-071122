@@ -1,0 +1,65 @@
+body {
+  margin: 0;
+  background-image: url(../assets/IkeBPUsT_4x.jpg);
+  background-image: 100%;
+  font-family: Verdana;
+}
+
+ul {
+  list-style-type: none;
+}
+li {
+  display: inline;
+  padding: 1em;
+}
+a:link {
+  text-decoration: none;
+}
+
+.contenedor {
+  height: 100vh;
+  margin: 0;
+}
+
+/* HEADER */
+
+.header {
+  display: flex;
+  height: 6vh;
+}
+.logo {
+  width: 25%;
+  background-image: url(../assets/320px-Microsoft_Bing_logo.svg.png);
+  background-repeat: no-repeat;
+  background-size: 60%;
+  background-position: center;
+}
+.nav {
+  width: 35%;
+}
+.resto {
+  width: 40%;
+  text-align: right;
+  padding-right: 2em;
+}
+
+/* BODY */
+
+.buscar {
+  text-align: center;
+  margin-top: 15vh;
+}
+input {
+  background-color: white;
+  /* background-image: url('../assets/icons8-search-30.png'); */
+  font-size: x-large;
+  /* background-repeat: no-repeat;
+  background-position: right; */
+  padding-left: 20px;
+  padding-right: 50px;
+}
+input[type='image'] {
+  margin-left: -50px;
+  padding: 0;
+  vertical-align: -6px;
+}
