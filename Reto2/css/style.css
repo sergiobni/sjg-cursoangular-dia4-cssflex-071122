@@ -1,7 +1,7 @@
 body {
   margin: 0;
   background-image: url(../assets/IkeBPUsT_4x.jpg);
-  background-image: 100%;
+  background-size: cover;
   font-family: Verdana;
 }
 
