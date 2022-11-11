@@ -12,6 +12,9 @@ li {
   display: inline;
   padding: 1em;
 }
+a {
+  color: grey;
+}
 a:link {
   text-decoration: none;
 }
@@ -36,11 +39,13 @@ a:link {
 }
 .nav {
   width: 25%;
+  line-height: 30px;
 }
 .resto {
-  width: 40%;
+  width: 45%;
   text-align: right;
-  padding-right: 2em;
+
+  line-height: 30px;
 }
 
 /* BODY */
