@@ -32,20 +32,19 @@ a:link {
 }
 .logo {
   width: 25%;
+  height: 50px;
   background-image: url(../assets/320px-Microsoft_Bing_logo.svg.png);
   background-repeat: no-repeat;
-  background-size: 60%;
+  background-size: 80%;
   background-position: center;
 }
 .nav {
   width: 25%;
-  line-height: 30px;
 }
 .resto {
-  width: 45%;
+  width: 47%;
   text-align: right;
-
-  line-height: 30px;
+  margin-bottom: 10px;
 }
 
 /* BODY */
